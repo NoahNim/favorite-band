@@ -1,6 +1,9 @@
 .sidebar {
   float: left;
   background-color: #99d8c4;
+  border: 2px solid red;
+  padding-left: 20px;
+  margin-left: 20px;
   }
 
 .images {
